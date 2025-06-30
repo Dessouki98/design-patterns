@@ -1,0 +1,14 @@
+C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern Adapter\bin\Debug\net9.0\StructuralDesignPattern Adapter.exe
+C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern Adapter\bin\Debug\net9.0\StructuralDesignPattern Adapter.deps.json
+C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern Adapter\bin\Debug\net9.0\StructuralDesignPattern Adapter.runtimeconfig.json
+C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern Adapter\bin\Debug\net9.0\StructuralDesignPattern Adapter.dll
+C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern Adapter\bin\Debug\net9.0\StructuralDesignPattern Adapter.pdb
+C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern Adapter\obj\Debug\net9.0\StructuralDesignPattern Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern Adapter\obj\Debug\net9.0\StructuralDesignPattern Adapter.AssemblyInfoInputs.cache
+C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern Adapter\obj\Debug\net9.0\StructuralDesignPattern Adapter.AssemblyInfo.cs
+C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern Adapter\obj\Debug\net9.0\StructuralDesignPattern Adapter.csproj.CoreCompileInputs.cache
+C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern Adapter\obj\Debug\net9.0\StructuralDesignPattern Adapter.dll
+C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern Adapter\obj\Debug\net9.0\refint\StructuralDesignPattern Adapter.dll
+C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern Adapter\obj\Debug\net9.0\StructuralDesignPattern Adapter.pdb
+C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern Adapter\obj\Debug\net9.0\StructuralDesignPattern Adapter.genruntimeconfig.cache
+C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern Adapter\obj\Debug\net9.0\ref\StructuralDesignPattern Adapter.dll

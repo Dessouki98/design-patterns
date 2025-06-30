@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "StructuralDesignPattern Adapter/1.0.0": {
+        "runtime": {
+          "StructuralDesignPattern Adapter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StructuralDesignPattern Adapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
