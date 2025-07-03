@@ -1,4 +1,0 @@
-C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern_Adapter\obj\Debug\net9.0\StructuralDesignPattern_Adapter.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern_Adapter\obj\Debug\net9.0\StructuralDesignPattern_Adapter.AssemblyInfoInputs.cache
-C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern_Adapter\obj\Debug\net9.0\StructuralDesignPattern_Adapter.AssemblyInfo.cs
-C:\Users\eissa\RiderProjects\dotnet-practice\StructuralDesignPattern_Adapter\obj\Debug\net9.0\StructuralDesignPattern_Adapter.csproj.CoreCompileInputs.cache
